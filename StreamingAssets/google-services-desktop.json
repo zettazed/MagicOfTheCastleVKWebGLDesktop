@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980266659648",
+    "project_id": "magic-of-the-castle-9e524",
+    "storage_bucket": "magic-of-the-castle-9e524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980266659648:android:690d8a8bf9c5da7d8114a5",
+        "android_client_info": {
+          "package_name": "com.magicofthecastle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980266659648-0omptcdj2ih1b111g0v4u6mbmukoim42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6l3aR2eqK8PzHim0jSdC2zntJJaNiDoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980266659648-0omptcdj2ih1b111g0v4u6mbmukoim42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
